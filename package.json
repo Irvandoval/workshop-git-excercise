@@ -17,8 +17,9 @@
     {"name":"Hasan","url":"https://github.com/JuanPotato"},
     {"name":"Hraban Luyat","email":"hraban@0brg.net","url":"https://luyat.com"},
     {"name":"Mateusz Paprocki","email":"mattpap@gmail.com","url":"https://github.com/mattpap"},
-    {"name":"Martin v. Löwis","url":"https://github.com/loewis"}
-    {"name":"Martin Scorcese","url":"https://github.com/martinsc"}
+    {"name":"Martin v. Löwis","url":"https://github.com/loewis"},
+    {"name":"Martin Scorcese","url":"https://github.com/martinsc"},
+    {"name":"Martin","url":"https://github.com/qwerty"}
   ],
   "keywords": [
     "hello",
