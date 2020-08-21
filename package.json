@@ -1,0 +1,28 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "my first node app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "contributors": [
+    {"name":"Johan","url":"https://github.com/johanjordaan"},
+    {"name":"Christopher John Ryan","email":"chrisjohnryan@live.com","url":"https://github.com/ChrisJohnRyan"},
+    {"name":"Zuo Qiyang","email":"zuoqy.gk@gmail.com","url":"http://zuoqy.com"},
+    {"name":"Sébastien Warin","url":"http://sebastien.warin.fr"},
+    {"name":"Florian Schäfer","email":"florian.schaefer+github@gmail.com","url":"https://github.com/fschaefer"},
+    {"name":"Tomasz Ducin","email":"tomasz@ducin.it","url":"http://ducin.it"},
+    {"name":"Hasan","url":"https://github.com/JuanPotato"},
+    {"name":"Hraban Luyat","email":"hraban@0brg.net","url":"https://luyat.com"},
+    {"name":"Mateusz Paprocki","email":"mattpap@gmail.com","url":"https://github.com/mattpap"},
+    {"name":"Martin v. Löwis","url":"https://github.com/loewis"}
+  ],
+  "keywords": [
+    "hello",
+    "world"
+  ],
+  "author": "Irvin Sandoval",
+  "license": "ISC"
+}
